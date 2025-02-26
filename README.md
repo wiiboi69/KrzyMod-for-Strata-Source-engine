@@ -1,8 +1,8 @@
 [![CI](https://github.com/p2sr/SourceAutoRecord/workflows/CI/badge.svg)](https://github.com/Krzyhau/KrzyMod/actions?query=workflow%3ACI+branch%3Amaster)
 [![CD](https://github.com/p2sr/SourceAutoRecord/workflows/CD/badge.svg)](https://github.com/Krzyhau/KrzyMod/actions?query=workflow%3ACD+branch%3Amaster)
 
-# KrzyMod - Chaos Mod for Portal 2
-**KrzyMod** is a plugin for Portal 2 that allows you to play the game while a bunch of random effects try to stop you from succeeding in that goal.
+# KrzyMod - Chaos Mod for Strata Source engine
+**KrzyMod** is a plugin for Strata Source engine that allows you to play the game while a bunch of random effects try to stop you from succeeding in that goal.
 
 Every once in a while, the plugin will trigger a random effect, which can be anything from spawning a cube to giving you laser eyes or making all props randomly colored.
 
